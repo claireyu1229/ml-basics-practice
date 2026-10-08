@@ -1,0 +1,9 @@
+.DS_Store
+.idea/
+__pycache__/
+*.zip
+
+# GitHubの容量制限を超える大きなファイル
+02-KNN算法/model/knn.pkl
+02-KNN算法/data/手写数字识别.csv
+08-贝叶斯和特征降维/data/垃圾邮件分类数据.csv
